@@ -38,16 +38,47 @@ Example categories:
 
 ---
 
+# Bookmarks
+
+### AI Chat
+- [ChatGPT](https://chat.openai.com)
+- [Claude](https://claude.ai)
+- [Gemini](https://gemini.google.com)
+- [Grok](https://grok.com)
+
+### AI Agent
+- [manus](https://manus.im)
+- [openclaw](https://docs.openclaw.ai)
+
+### AI Development
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [Hugging Face](https://huggingface.co)
+- [PyTorch](https://pytorch.org)
+
+### AI Art
+- [Midjourney](https://midjourney.com)
+- [Runway](https://fast.ai)
+- [HeyGen](https://machinelearningmastery.com)
+- [sora](https://openai.com/sora)
+
+
+---
+
+
 ### Clone locally
 
+```bash
 git clone https://github.com/LiuZixu-aurelio/AI-Bookmarks.git
+```
 
 
 ---
 
 ### Keep updated
 
+```bash
 git pull
+```
 
 ---
 
