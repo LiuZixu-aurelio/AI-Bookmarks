@@ -1,37 +1,34 @@
-# AI Bookmarks
+# AI 书签
 
-**English** | [中文](./README.zh-CN.md)
+[English](./README.md) | **中文**
 
-A curated collection of useful AI tools, research resources, and development utilities.
+一个精心整理的 AI 工具、研究资源与开发实用链接集合。
 
-This repository collects high-quality AI-related links
-
-The goal is to build a continuously updated AI knowledge navigation directory.
+本仓库收集高质量的 AI 相关链接，目标是持续更新的 AI 知识导航目录。
 
 ---
 
-# Browser Compatibility
+## 浏览器兼容性
 
-The bookmarks.html file follows the standard Netscape Bookmark File Format, which is supported by most modern browsers.
-Supported Browsers
-Google Chrome
-Microsoft Edge
-Mozilla Firefox
-Safari
-Brave Browser
-Opera
-These browsers can directly import the bookmarks HTML file.
+`bookmarks.html` 采用 Netscape Bookmark File Format 标准，大多数现代浏览器都支持导入。
+
+支持的浏览器包括（但不限于）：
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+- Safari
+- Brave
+- Opera
 
 ---
 
-# How to Use
+## 如何使用
 
-### Browse
+### 浏览
 
-Simply open the markdown files inside the `bookmarks` folder.
+你可以直接打开 `bookmarks` 文件夹中的 Markdown 文件进行查看。
 
-Example categories:
-
+示例分类：
 - AI Tools
 - AI Models
 - Learning Resources
@@ -40,7 +37,7 @@ Example categories:
 
 ---
 
-# Bookmarks
+## Bookmarks
 
 ### AI Chat
 - [ChatGPT](https://chat.openai.com)
@@ -84,20 +81,17 @@ Example categories:
 - [ifconfig.me](https://ifconfig.me)
 - [Grammarly](https://www.grammarly.com)
 
-
 ---
 
-
-### Clone locally
+### 本地克隆
 
 ```bash
 git clone https://github.com/LiuZixu-aurelio/AI-Bookmarks.git
 ```
 
-
 ---
 
-### Keep updated
+### 保持更新
 
 ```bash
 git pull
@@ -107,9 +101,7 @@ git pull
 
 ## License
 
-This project is licensed under the MIT License.
+本项目基于 MIT License 发布。
 
-See the LICENSE file for details.
-
-
+详见 `LICENSE` 文件。
 
